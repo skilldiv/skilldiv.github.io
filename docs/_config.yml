@@ -1,0 +1,5 @@
+title: Skilldiv.ai Documentation
+description: Documentation for the Skilldiv.ai application
+theme: minima
+markdown: kramdown
+permalink: /:path/
